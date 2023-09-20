@@ -20,5 +20,5 @@ CMS(Админка): WordPress
 
 
 ## Картинки
-![](https://github.com/alexfedd/alexfedd.kz/blob/main/alexfedd.kz_ru_.jpg)
+![](https://github.com/alexfedd/alexfedd.kz/blob/main/alexfedd.kz.jpg)
 
