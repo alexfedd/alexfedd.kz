@@ -20,5 +20,5 @@ CMS(Админка): WordPress
 
 
 ## Картинки
-![](./assets/alexfedd.github.io_sprucevita_.jpg)
+![]([./assets/alexfedd.github.io_sprucevita_.jpg](https://github.com/alexfedd/alexfedd.kz/blob/main/alexfedd.kz_ru_.jpg)
 
